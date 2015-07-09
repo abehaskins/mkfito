@@ -1,0 +1,19 @@
+{
+  "name": "mkfito",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "mkfito": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "es6-promises": "^1.0.10",
+    "twitter": "^1.2.5"
+  }
+}
